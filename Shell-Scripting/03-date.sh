@@ -1,4 +1,4 @@
 #!/bin/bash
 
 DATE=$(date)
-echo " Script statted executing on : $DATE"
+echo " Script started executing on : $DATE"
